@@ -64,4 +64,4 @@ proguard/
 # Android Studio captures folder
 captures/
 
-.idea/workspaces.xml
+.idea/workspace.xml
