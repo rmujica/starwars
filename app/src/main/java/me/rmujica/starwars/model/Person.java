@@ -2,9 +2,10 @@ package me.rmujica.starwars.model;
 
 public class Person {
 
+    public int id;
     public String name;
-    private String height;
-    private String mass;
-    private String hairColor;
+    public String height;
+    public String mass;
+    public String hairColor;
 
 }
